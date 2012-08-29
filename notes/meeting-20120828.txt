@@ -1,0 +1,68 @@
+##Smartmouse meeting minutes 8/28/12
+ 
+         Faculty Advisor Putnam
+·         Micromouse competition video
+·         Brown competition
+·         Context: robot built in one night, programmed on the drive over. (Just in time Programming)
+·         Competition this year TBA
+·         Other meeting review
+o   (see notes)
+·         Review of last year’s robot
+o   Discussed wheels, encoders, closed-loop feedback
+o   More stable wheel base
+o   Sensors – slow IR, alignment, finicky optical, min range sonar
+o   Bad maze tolerances – wonkey!
+·         Find a competition – or two!
+·         Maybe run our own??
+·         Improvements for this year
+o   Xbee/Bluetooth
+o   Amarino software – Bluetooth/android/arduino library (www.amarino-toolkit.net/)
+·         Timeline:
+o   Chassis are quick with reprap!
+o   Have hardware, have maze
+o   Have testbed robot for software
+o   New design by end of A term (~2 months)
+o   Old robot as software dev platform
+o   New hardware
+#  100%
+·         Modular design – swap components
+·         4 motors, 4 wheels
+·         Higher clearance
+·         Fixed optical sensors for movement tracking
+·         X-Y dimensions < 10x10cm
+·         Wireless debugging
+#  50%
+·         IR sensors
+·         Sonar system (longer range for mapping)
+·         Encoders (with high wheel rpm can just use 1 tick/motor rev)
+·         IMU (accelerometer, gyro, compass) for de-biasing
+·         Better wheels
+·         Need feedback on motors
+·         Whiskers
+#  Castors
+·         Castors
+·         Laser
+·         Vision
+  Parallax vs. maxbotics sensors
+§  Maxbotics ping modules with custom hardware/software
+§  Offload sensor handling (and other stuff) to other processors
+·         Ideas
+o    
+·         Goals
+o   More members at more meetings
+o   PROTOTYPE throughout –PROTOTYPE everything – PROTOTYPE early!!!
+ 
+ 
+##         Names and interests
+o   Riley: design process and integration
+o   Dmitry: design and integration + hardware
+o   George: electronics
+o   Steve: look pretty
+o   Paulo: make it look pretty
+o   Tank: general help
+o   Dan: GLOWING! (and programming/algorithms)
+·         TODO:
+o   Email ideas to smartmouse.wpi.edu
+o    
+
+
